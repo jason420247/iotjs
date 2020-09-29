@@ -8,6 +8,6 @@
   "author": "Samsung Electronics Co., Ltd.",
   "license": "Apache-2.0",
   "devDependencies": {
-    "eslint": "^4.7.2"
+    "eslint": "^7.10.0"
   }
 }
